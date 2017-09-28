@@ -20,7 +20,7 @@ Thus, provide a [**complete profile**](https://github.com/settings/profile) 📝
 
 Once you have a GitHub account, please do the following:
 
-- 🔘 Click on this [**invitation link**](https://classroom.github.com/a/GpdObTqk).
+- 🔘 Click on this [**invitation link**](https://classroom.github.com/a/8L9SabAP).
 - ✅ **Accept the assignment**. A new repository will be assigned to you, containing an exact copy of these instructions. Once the process is complete, you'll be notified via email.
 - :arrow_up: [**Upload**](https://help.github.com/articles/adding-a-file-to-a-repository) the following files (as PDF) to your new repository:
   - A complete **CV**.
