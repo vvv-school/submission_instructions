@@ -25,6 +25,6 @@ Once you have a GitHub account, please do the following:
 - :arrow_up: [**`Upload`**](https://help.github.com/articles/adding-a-file-to-a-repository) the following files (as PDF) to your new repository:
   - Your **CV**.
   - A short **Research Statement** with your name, affiliation, email, indication whether you apply for the IEEE travel grant. In case you want to apply for the travel grant you need to add your IEEE membership number.
-  - The **recommendation letters**.
+  - One **recommendation letter**.
 
 We will get back to you soon! :watch:
