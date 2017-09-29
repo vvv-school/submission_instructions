@@ -31,4 +31,3 @@ Once you have a GitHub account, please do the following:
 Documents can be updated until the deadline, therefore we strongly suggest that you get familiar with the procedure and start uploading the material a few days before the deadline.
 
 We will get back to you soon! :watch:
-
