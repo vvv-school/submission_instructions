@@ -24,6 +24,7 @@ Once you have a GitHub account, please do the following:
 - ✅ **Accept the assignment**. A new _private_ repository :lock: will be assigned to you, containing an exact copy of these instructions. You'll be notified via email when the repository is ready.
 - :arrow_up: [**`Upload`**](https://help.github.com/articles/adding-a-file-to-a-repository) the following files (as PDF) to your new repository:
   - Your **CV**.
+  - A short **Research Statement** with your name, affiliation, email, indication whether you apply for the IEEE travel grant. In case you want to apply for the travel grant you need to add your IEEE membership number.
   - The **recommendation letters**.
 
 We will get back to you soon! :watch:
