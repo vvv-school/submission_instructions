@@ -21,7 +21,7 @@ Thus, provide a [**full profile**](https://github.com/settings/profile) 📝, de
 Once you have a GitHub account, please do the following:
 
 - 🔘 Click on this [**invitation link**](https://classroom.github.com/a/8L9SabAP).
-- ✅ **Accept the assignment**. A new _private_ repository :lock: will be assigned to you, containing an exact copy of these instructions. You'll be notified via email when the repository is ready.
+- ✅ **Accept the assignment**. A new _private_ repository :lock: will be assigned to you, containing an exact copy of these instructions. You'll receive an email when the repository is ready.
 - :arrow_up: [**Upload**](https://help.github.com/articles/adding-a-file-to-a-repository) the following files (as PDF) to your new repository:
   - The [**application form**](./application-form.pdf) filled in in all its parts. Make sure you specify IEEE-RAS membership, if you want to apply for a travel grant or benefit of discounted fee.
   - Your **CV**.
