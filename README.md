@@ -25,7 +25,7 @@ Once you have a GitHub account, please do the following:
 - :arrow_up: [**Upload**](https://help.github.com/articles/adding-a-file-to-a-repository) the following files (as PDF) to your new repository:
   - The [**application form**](./application-form.pdf) filled in in all its parts. Make sure you specify IEEE-RAS membership, if you want to apply for a travel grant or benefit of discounted fee.
   - Your **CV**.
-  - A short **Research Statement** with your name, affiliation, email. If you apply for the IEEE travel grant, specify the reasons.
+  - A short **Research Statement** (max 1 page). If you apply for the IEEE travel grant, specify the reasons.
   - One **recommendation letter**.
 
 Documents can be updated until the deadline, therefore we strongly suggest that you get familiar with the procedure and start uploading the material a few days before the deadline.
