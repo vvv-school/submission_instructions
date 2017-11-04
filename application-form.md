@@ -1,6 +1,6 @@
 ## Instructions
 
-This form is written in [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown).
+This form is written in [**GitHub Flavored Markdown**](https://guides.github.com/features/mastering-markdown).
 
 For multiple-choice questions, sign your selection with an `x` in the brackets, as in the following example:
 
@@ -9,7 +9,7 @@ For multiple-choice questions, sign your selection with an `x` in the brackets, 
 
 ---
 ## Application Form
-Please fill in the fields with your data.
+Please, [**edit**](https://help.github.com/articles/editing-files-in-your-repository) this file to fill in the fields with your data.
 
 - First Name:
 
