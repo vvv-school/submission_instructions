@@ -1,4 +1,6 @@
-Please fill in the fields with your data.
+## Instructions
+
+This form is written in [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown).
 
 For multiple-choice questions, sign your selection with an `x` in the brackets, as in the following example:
 
@@ -6,6 +8,8 @@ For multiple-choice questions, sign your selection with an `x` in the brackets, 
 - [ ] Other option
 
 ---
+## Application Form
+Please fill in the fields with your data.
 
 - First Name:
 
@@ -38,10 +42,12 @@ For multiple-choice questions, sign your selection with an `x` in the brackets, 
 - Current position:
 
 
-- Supervisor(s) (specify their affiliation)
-  1. ...
-  2. ...
-  3. ...
+- Specify your supervisor(s)
+
+  | Name | Affiliation |
+  | :---: | :---: |
+  | ... | ... |
+  | ... | ... |
 
 
 - Have you participated to a previous edition of VVV School?
