@@ -22,9 +22,9 @@ Once you have a GitHub account, please do the following:
 
 - 🔘 Click on this [**invitation link**](https://classroom.github.com/a/8L9SabAP).
 - ✅ **Accept the assignment**. A new _private_ repository :lock: will be assigned to you, containing an exact copy of these instructions. You'll receive an email when the repository is ready.
+- 📝 [**Edit**](https://help.github.com/articles/editing-files-in-your-repository) and fill in the [**application form**](./application-form.md) with your data. Make sure you specify IEEE-RAS membership, if you want to apply for a travel grant or benefit of discounted fee.
 - :arrow_up: [**Upload**](https://help.github.com/articles/adding-a-file-to-a-repository) the following files (as PDF) to your new repository:
-  - The [**application form**](./application-form.pdf) filled in with your data. Make sure you specify IEEE-RAS membership, if you want to apply for a travel grant or benefit of discounted fee.
-  - Your **CV**.
+  - Your **Resume**.
   - A short **Research Statement** (max 1 page). If you apply for the IEEE travel grant, specify the reasons.
   - One **recommendation letter**.
 
