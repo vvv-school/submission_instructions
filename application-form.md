@@ -2,14 +2,14 @@
 
 This form is written in [**GitHub Flavored Markdown**](https://guides.github.com/features/mastering-markdown).
 
-For multiple-choice questions, sign your selection with an `x` in the brackets, as in the following example:
+For multiple-choice questions, check your selection with `x` in the brackets, as in the following example:
 
 - [x] Your selection
 - [ ] Other option
 
 ---
 ## Application Form
-Please, [**edit**](https://help.github.com/articles/editing-files-in-your-repository) this file to fill in the fields with your data.
+Please, [**edit** this file](https://help.github.com/articles/editing-files-in-your-repository) to fill in the fields with your data. You can commit your changes directly to the `master` branch.
 
 - First Name:
 
@@ -53,3 +53,9 @@ Please, [**edit**](https://help.github.com/articles/editing-files-in-your-reposi
 - Have you participated to a previous edition of VVV School?
   - [ ] Yes, in year:
   - [ ] No
+  
+  
+- Supporting documents (check all that apply)
+  - [ ] Resume
+  - [ ] Research statement
+  - [ ] Recommendation letter
