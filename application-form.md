@@ -59,3 +59,4 @@ Please, [**edit** this file](https://help.github.com/articles/editing-files-in-y
   - [ ] Resume
   - [ ] Research statement
   - [ ] Recommendation letter
+  - [ ] Slide for self introduction
