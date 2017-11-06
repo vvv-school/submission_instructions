@@ -27,7 +27,7 @@ Once you have a GitHub account, please do the following:
   - Your **resume**.
   - A short **research statement** (max 1 page). If you apply for the IEEE travel grant, specify the reasons.
   - One **recommendation letter**.
-  - One **slide to introduce yourself** during the first school day.
+  - One **slide to support the self introduction** during the first school day.
 
 Documents can be updated until the deadline, therefore we strongly suggest that you get familiar with the procedure and start uploading the material a few days before the deadline.
 
