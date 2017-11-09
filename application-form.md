@@ -25,11 +25,11 @@ Please, [**edit** this file](https://help.github.com/articles/editing-files-in-y
 - Date of Birth:
 
 
-- Email:
+- Email:haerbin
 
 
 - I would like to apply for travel grant
-  - [ ] Yes
+  - [11] Yes
   - [ ] No
 
 
