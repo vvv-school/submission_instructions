@@ -6,7 +6,7 @@ Programming_ you have to complete the steps detailed below.
 ### Create your GitHub account
 If you're not a _GitHubber_ yet, please [**sign up for GitHub**](https://github.com/join) :octocat: (it's free). We're going to use [**GitHub**](https://github.com) and [**GitHub Education**](https://education.github.com) extensively during the school for hosting code and material so as collaborating all together ✨  
 
-Thus, provide a [**full profile**](https://github.com/settings/profile) 📝, detailing your:
+Thus, provide a [**full profile**](https://github.com/settings/profile) 📝 detailing your:
   - _Name_
   - _Surname_
   - _Institution_
