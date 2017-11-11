@@ -31,8 +31,6 @@ Once you have a GitHub account, please do the following:
 
 ⚠️ Documents can be updated until the deadline, therefore we strongly suggest that you get familiar with the procedure and start uploading the material a few days before the deadline.
 
-🤔 For any questions or problems with the application process, do not hesitate to contact us by posting an issue 👋 on your new repository and/or dropping us an email :email: at these addresses:
-- **lorenzo.natale _AT_ iit.it**
-- **ugo.pattacini _AT_ iit.it**.
+🤔 For any questions or problems with the application process, do not hesitate to contact us by posting an issue 👋 on your new repository and/or dropping an email :email: to our [**mailing list**](mailto:vvv-admin@iit.it). 
 
 We will get back to you soon! :clock3:
