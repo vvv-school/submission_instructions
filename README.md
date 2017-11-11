@@ -14,7 +14,7 @@ Thus, provide a [**full profile**](https://github.com/settings/profile) 📝, de
   - _Picture_ (not mandatory, but we appreciate it 😉)
   - _Bio_ (again not mandatory, but appreciated)
 
-**Make sure the email you provide is active** :email: GitHub will send you notifications 🔔
+⚠️ **Make sure the email you provide is active** :email: GitHub will send you notifications 🔔
 
 ### Submit your application
 
