@@ -29,7 +29,7 @@ Once you have a GitHub account, please do the following:
   - One **recommendation letter**.
   - One **slide to support the self introduction** during the first school day.
 
-Documents can be updated until the deadline, therefore we strongly suggest that you get familiar with the procedure and start uploading the material a few days before the deadline.
+⚠️ Documents can be updated until the deadline, therefore we strongly suggest that you get familiar with the procedure and start uploading the material a few days before the deadline.
 
 🤔 For any questions or problems with the application process, do not hesitate to contact us by posting an issue 👋 on your private repository and/or dropping us an email :email: at these addresses:
 - **lorenzo.natale _AT_ iit.it**
