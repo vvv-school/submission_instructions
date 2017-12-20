@@ -29,8 +29,8 @@ fi
 
 repositories=$(./get-repositories.rb $1)
 for repo in ${repositories[@]}; do
-	if [[ $repo == $2* ]]; then
-	    echo -e "\n${green}Downloading $repo${nc}"
-		git clone https://github.com/$1/$repo.git $2/$repo
-	fi
+    if [[ $repo == $2* ]]; then
+        echo -e "\n${green}Downloading $repo${nc}"
+        git clone https://github.com/$1/$repo.git $2/$repo
+    fi
 done

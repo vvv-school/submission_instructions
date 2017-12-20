@@ -12,4 +12,4 @@
 - `git clone https://github.com/vvv-school/submission_instructions.git`
 - `cd submission_instructions`
 - `git checkout download_applications`
-- `./download vvv-school application_vvvyy` (`vvvyy` is the school year)
+- `./download vvv-school application_vvvyy` (`yy` is the school year)
