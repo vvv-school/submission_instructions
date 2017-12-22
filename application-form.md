@@ -2,16 +2,15 @@
 
 This form is written in [**GitHub Flavored Markdown**](https://guides.github.com/features/mastering-markdown).
 
-For multiple-choice questions, check your selection with `x` in the brackets, as in the following example:
+- For multiple-choice questions, check your selection with `x` in the brackets, as in the following example:
+  - [x] Your selection
+  - [ ] Other option
 
-- [x] Your selection
-- [ ] Other option
+- For filling in tables, notice the formatting:
 
-For filling in tables, notice the formatting:
-
-| Property 1 | Property 2 |
-| :---: | :---: |
-| Value 1 | Value 2 |
+  | Property 1 | Property 2 |
+  | :---: | :---: |
+  | Value 1 | Value 2 |
 
 ---
 ## Application Form
