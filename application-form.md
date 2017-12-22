@@ -6,7 +6,7 @@ This form is written in [**GitHub Flavored Markdown**](https://guides.github.com
   - [x] Your selection
   - [ ] Other option
 
-- For filling in tables, notice the formatting:
+- For filling in tables, be careful of the hidden formatting:
 
   | Property 1 | Property 2 |
   | :---: | :---: |
