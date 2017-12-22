@@ -7,6 +7,12 @@ For multiple-choice questions, check your selection with `x` in the brackets, as
 - [x] Your selection
 - [ ] Other option
 
+For filling in tables, notice the formatting:
+
+| Property 1 | Property 2 |
+| :---: | :---: |
+| Value 1 | Value 2 |
+
 ---
 ## Application Form
 Please, [**edit** this file](https://help.github.com/articles/editing-files-in-your-repository) to fill in the fields with your data. You can commit your changes directly to the `master` branch.
