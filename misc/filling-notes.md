@@ -1,7 +1,7 @@
 ## Filling notes
 
 #### IEEE membership
-- The membership is required to apply for travel grant and access discounted registration fee.
+- The membership is **only** required in case you want to apply for travel grant and access discounted registration fee.
 
 #### Supervisors
-- We consider max 3 supervisors.
+- We consider **up to 3 supervisors**.

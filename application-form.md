@@ -1,7 +1,7 @@
 ## Application Form
 This form is written in [**GitHub Flavored Markdown**](https://guides.github.com/features/mastering-markdown).
 
-Please, [**edit** this file](https://help.github.com/articles/editing-files-in-your-repository) to fill in the fields with your data. You can commit your changes directly to the `master` branch.
+Please, [**edit this file**](https://help.github.com/articles/editing-files-in-your-repository) to fill in the fields with your data and commit your changes directly to the `master` branch.
 
 ---
 
