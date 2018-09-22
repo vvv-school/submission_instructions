@@ -1,67 +1,33 @@
-## Instructions
-
+## Application Form
 This form is written in [**GitHub Flavored Markdown**](https://guides.github.com/features/mastering-markdown).
 
-- For multiple-choice questions, check your selection with `x` in the brackets, as in the following example:
-  - [x] Your selection
-  - [ ] Other option
-
-- For filling in tables, be careful of the hidden formatting:
-
-  | Property 1 | Property 2 |
-  | :---: | :---: |
-  | Value 1 | Value 2 |
-
----
-## Application Form
 Please, [**edit** this file](https://help.github.com/articles/editing-files-in-your-repository) to fill in the fields with your data. You can commit your changes directly to the `master` branch.
 
-- First Name:
+---
+
+| | |
+| :--- | :---: |
+| **First Name**                                                                     | ... |
+| **Last Name**                                                                      | ... |
+| **Gender**                                                                         | MALE/FEMALE |
+| **Date of Birth**                                                                  | DD/MM/YYYY |
+| **Email**                                                                          | ... |
+| **Apply for travel grant**                                                         | YES/NO |
+| **IEEE membership number** [(why?)](#ieee-membership)                              | ... |
+| **Affiliation**                                                                    | ... |
+| **Current position**                                                               | ... |
+| **Name of supervisor #1**                                                          | ... |
+| **Affiliation of supervisor #1**                                                   | ... |
+| **Name of supervisor #2** [(if any)](#supervisors)                                 | ... |
+| **Affiliation of supervisor #2** [(if any)](#supervisors)                          | ... |
+| **Name of supervisor #3** [(if any)](#supervisors)                                 | ... |
+| **Affiliation of supervisor #3** [(if any)](#supervisors)                          | ... |
+| **Did you attend a previous edition of VVV School?**                               | YES/NO |
+| **Consent to processing of personal data** [(read our policy first)]()             | YES/NO |
 
 
-- Last Name:
+#### IEEE membership
+- The membership is required to to apply for travel grant and access discounted registration fee.
 
-
-- Gender
-  - [ ] Female
-  - [ ] Male
-
-
-- Date of Birth:
-
-
-- Email:
-
-
-- I would like to apply for travel grant
-  - [ ] Yes
-  - [ ] No
-
-
-- IEEE Membership (required to apply for travel grant and access discounted registration fee):
-
-
-- Affiliation:
-
-
-- Current position:
-
-
-- Specify your supervisor(s)
-
-  | Name | Affiliation |
-  | :---: | :---: |
-  | ... | ... |
-  | ... | ... |
-
-
-- Have you participated to a previous edition of VVV School?
-  - [ ] Yes, in year:
-  - [ ] No
-  
-  
-- Supporting documents (check all that apply)
-  - [ ] Resume
-  - [ ] Research statement
-  - [ ] Recommendation letter
-  - [ ] Slide for self introduction
+#### Supervisors
+- We account for max 3 supervisors.
