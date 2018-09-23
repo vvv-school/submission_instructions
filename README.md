@@ -22,7 +22,8 @@ Once you have a GitHub account, please do the following:
 
 - 🔘 Click on this [**invitation link**]().
 - ✅ **Accept the assignment**. A new _private_ repository :lock: will be assigned to you, containing an exact copy of these instructions. You will receive an email when the repository is ready.
-- 📝 Fill in the [**application form**](./application-form.md) with your data. Make sure you specify IEEE membership, if you want to apply for a travel grant or access discounted registration fee.
+- :eyes: Read our [**Privacy Policy**](./application-form.md#privacy-policy) carefully since you are requested to give your consent to processing your personal data.
+- 📝 Fill in the [**application form**](./application-form.md#application-form) with your data. Make sure you specify IEEE membership, if you want to apply for a travel grant or access discounted registration fee.
 - :arrow_up: [**Upload**](https://help.github.com/articles/adding-a-file-to-a-repository) the following files (as **PDF**) to your new repository within the directory [`./uploads`](./uploads/README.md):
   - Your **resume**.
   - A short **research statement** (max 1 page). If you apply for the IEEE travel grant, specify the reasons.
