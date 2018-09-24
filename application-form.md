@@ -33,4 +33,7 @@ Please, [**edit this file**](../../edit/master/application-form.md) to fill in t
 | **Name of supervisor #3** [(if any)](./misc/filling-notes.md#supervisors)            | ... |
 | **Affiliation of supervisor #3** [(if any)](./misc/filling-notes.md#supervisors)     | ... |
 | **Did you attend a previous edition of VVV School?**                                 | YES/NO |
+
+| | |
+| :--- | :---: |
 | **Consent to processing of personal data** [(read our policy)](#privacy-policy)      | YES/NO |
