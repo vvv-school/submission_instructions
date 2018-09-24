@@ -4,7 +4,7 @@
 - The **Processing Controller** is IIT, based in Genoa, Via Morego no. 30 (phone: +39 01071781).
 - The **Data Protection Officer** is the Responsible of the Data Protection Department, Rödl & Partner, Milan ([dpo@iit.it](mailto:dpo@iit.it)).
 - The processing of personal data will be carried out by electronic means and they will be stored for the time strictly necessary to handle the above-mentioned submission.
-- The legal basis of data processing consists of your consent, which is mandatory in order to proceed with your submission.
+- The legal basis of data processing consists of **your consent, which is mandatory** in order to proceed with your submission.
 - Your personal data will be processed solely by IIT’s Staff who manage the VVV School.
 - You can exercise the rights provided by **articles 15 et seq.** of the GDPR.
 
