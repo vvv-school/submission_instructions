@@ -24,7 +24,7 @@ Once you have a GitHub account, please do the following:
 - ✅ **Accept the assignment**. A new _private_ repository :lock: will be assigned to you, containing an exact copy of these instructions. You will receive an email when the repository is ready.
 - :eyes: Read our [**Privacy Policy**](./application-form.md#privacy-policy) carefully since you are requested to give your consent to processing your personal data.
 - 📝 Fill in the [**Application Form**](./application-form.md#application-form) with your data.
-- :arrow_up: Upload the requested files in the directory [`./uploads`](./uploads).
+- :arrow_up: Upload the requested files in the directory [./uploads](./uploads).
 
 ⚠️ Documents can be updated until the deadline, therefore we strongly suggest that you get familiar with the procedure and start uploading the material a few days before the deadline.
 
