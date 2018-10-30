@@ -1,4 +1,4 @@
-:arrow_up: [**Upload**](https://help.github.com/articles/adding-a-file-to-a-repository) here the following PDF's:
+:arrow_up: [**Upload**](https://help.github.com/articles/adding-a-file-to-a-repository) here the following files (as PDF):
 - Your **resume**.
 - A short **research statement** (max 1 page). If you apply for the IEEE travel grant, specify the reasons.
 - One **recommendation letter**.
