@@ -1,5 +1,3 @@
-# International Winter School on Humanoid Robot Programming :robot:
-
 To submit your application to the _International Winter School on Humanoid Robot
 Programming_ you have to complete the steps detailed below.
 
