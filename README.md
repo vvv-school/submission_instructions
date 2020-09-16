@@ -12,7 +12,7 @@ Thus, provide a [**full profile**](https://github.com/settings/profile) :bust_in
   - _Picture_ (not mandatory, but we appreciate it 😉)
   - _Bio_ (again not mandatory, but appreciated)
 
-⚠️ **Make sure the email you provide is active** GitHub will send you notifications 🔔
+⚠️ **Make sure the email you provide is active**. GitHub will send you notifications 🔔
 
 ### Submit your application
 Once you have a GitHub account, please do the following:
