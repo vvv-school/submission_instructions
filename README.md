@@ -17,7 +17,7 @@ Thus, provide a [**full profile**](https://github.com/settings/profile) :bust_in
 ### Submit your application
 Once you have a GitHub account, please do the following:
 
-- 🔘 Click on this [**invitation link**]().
+- 🔘 Click on this [**invitation link**]() (only once).
 - ✅ **Accept the assignment**. A new _private_ repository :lock: will be assigned to you, containing an exact copy of these instructions. You will receive an email when the repository is ready.
 - 👀 Read our [**Privacy Policy**](./application-form.md#privacy-policy) carefully since you are requested to give your consent to processing your personal data.
 - 📝 Fill in the [**Application Form**](./application-form.md#application-form) with your data.
