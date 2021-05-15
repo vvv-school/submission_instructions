@@ -3,6 +3,7 @@
 - The **Data Controller** is IIT, based in Genoa, Via Morego no. 30 (phone: 39 010 28961).
 - The **Data Protection Officer** of IIT can be contacted at the email address [dpo@iit.it](mailto:dpo@iit.it).
 - The processing of personal data will be carried out by electronic means and they will be stored for the time strictly necessary to handle the above-mentioned submission.
+- The physical processing units storing your personal data are owned by **GitHub** and may be located outside EU. With this regards, **IIT has signed a data protection agreement with GitHub** for ensuring the GDPR compliance.
 - The legal basis of data processing consists of **the need for handling your request for participation** (article `6`, paragraph `1`, letter `b` of the GDPR).
 - Your personal data will be processed solely by IIT Staff who manage the VVV School.
 - You can exercise the rights provided by **articles `15` et seq.** of the GDPR. In particular, you have the right to access your personal data and to obtain their updating and adjustment. Furthermore, whether you think that the processing violate the rules on the protection of personal data, you have the right to lodge a complaint with a supervisory authority.
@@ -35,4 +36,4 @@ Please, [**edit this file**](../../edit/master/application-form.md) to fill in t
 
 | | |
 | :--- | :---: |
-| **Select YES to confirm you have read and understood our [Privacy Policy](#privacy-policy)** | YES/NO |
+| **⚠ Select YES to confirm you have read and understood our [Privacy Policy](#privacy-policy)** | YES/NO |
